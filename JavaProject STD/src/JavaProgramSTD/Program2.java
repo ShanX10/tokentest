@@ -22,7 +22,10 @@ public class Program2 {
 				
 			System.out.println ("The number is bigger " +b);
 			
-			System.out.println ("im getting better at this") ;
+			System.out.println ("im getting better at this dawggg") ;
+			
+			
+			
 		}
 
 	}
